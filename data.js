@@ -283,7 +283,7 @@ const lessonData = [
     ["你就会", "nǐ jiù huì", "you then will", "kamu pun akan"],
     ["获得", "huò dé", "obtain / gain / win", "mendapat / memperoleh"],
     ["很多地", "hěn duō de", "many", "banyak"],
-    ["朋友。’个人", "péng you", "friends", "sahabat / kawan."],
+    ["朋友。", "péng you", "friends", "sahabat / kawan."],
     ["\n", "", "", ""],
 
     // --- 第15段 ---
